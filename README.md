@@ -42,6 +42,6 @@ LOGS =
 
 ## Credits
 
-####**Lonami** - [Telethon](GitHub.com/LonamiWebs)
-####**Me** - [Alain](https://telegram.me/Alain_xD)
-####**Midhun** - [Midhun](https://t.me/Midhun_xD)
+- **Lonami** - [Telethon](GitHub.com/LonamiWebs)
+- **Me** - [Alain](https://telegram.me/Alain_xD)
+- **Midhun** - [Midhun](https://t.me/Midhun_xD)
