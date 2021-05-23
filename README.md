@@ -39,3 +39,9 @@ LOGS =
 ```
 ## Support Chat
 [![Telegram](https://img.shields.io/badge/BotzCityChat-1b77FF.svg?style=for-the-badge&logo=BotzCityChat)](https://t.me/BotzCityChat)
+
+## Credits
+
+**Lonami** - [Telethon](GitHub.com/LonamiWebs)
+**Me** - [Alain](https://telegram.me/Alain_xD)
+**Midhun** - [Midhun](https://t.me/Midhun_xD)
