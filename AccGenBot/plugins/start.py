@@ -11,7 +11,7 @@ LOGS = var.LOGS
 
 bot = BotzCity
 
-@bot.on(events.NewMessage(pattern="^[/!](start|Start|START)$"))
+@bot.on(events.NewMessage(pattern="^[/!](start|Start|START)"))
 async def _(event):
    join = [[Button.url("Jᴏɪɴ ᴄʜᴀɴɴᴇʟ", f"{CHANNEL}")]]
    lol = await check(USERNAME, event, bot)
